@@ -34,5 +34,5 @@ A data analysis and visualization project that tracks global COVID-19 trends, in
 - Kenya maintains lower case numbers but higher death rate proportionally.
 
 ## 📄 Author
-Your Name | [LinkedIn/GitHub if applicable]
+Mpumelelo Theophilas Nxazonke | https://github.com/Sir-Poeksie
 
